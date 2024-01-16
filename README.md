@@ -1,5 +1,5 @@
  online store customer segmentation
-![](./plotly/clusters)
+![](./plotly/clusters.png)
 # <center> PROJECT-6. Кластеризация клиентов онлайн-магазина подарков </center>
 ## Оглавление
 1. [Описание проекта](#Описание-проекта)
