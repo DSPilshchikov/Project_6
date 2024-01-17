@@ -55,6 +55,8 @@ git clone https://github.com/DSPilshchikov/Project_6
 
 ## Использование
 Вся информация о работе представлена в jupyter-ноутбуке PROJECT-6._Сегментация_клиентов_онлайн-магазина.ipynb.
+  
+Ноутбук также доступен по ссылке https://drive.google.com/drive/folders/1ksMMgmbmx25VRKMVxJbbaPNdSL7KeHD9?usp=sharing
 
 ## Авторы
 
